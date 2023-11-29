@@ -1,7 +1,7 @@
 # Santander_DIO_BootCamp_bmg
 
 <p align="center">
-  <img width="150" height="80" src="https://github.com/BrunoGeraldine/Santander_DIO_BootCamp_bmg/assets/87772120/5e0d1150-d52c-4fb6-b979-152f7fa52e2b"
+  <img width="350" height="80" src="https://github.com/BrunoGeraldine/Santander_DIO_BootCamp_bmg/assets/87772120/5e0d1150-d52c-4fb6-b979-152f7fa52e2b"
        </p>
  <p align="Center">
 
@@ -11,7 +11,7 @@
 Reverse engineering of Google's Bard chatbot API
 
 
-** Bem-vindo ao Projeto de Geração Automatizada de Newsletters com ETL e IA Generativa para Clientes do Banco Santander**
+**Bem-vindo ao Projeto de Geração Automatizada de Newsletters com ETL e IA Generativa para Clientes do Banco Santander**
 
 ---
 
