@@ -1,7 +1,7 @@
 # Santander_DIO_BootCamp_bmg
 
 <p align="center">
-  <img width="100" height="200" src="https://github.com/BrunoGeraldine/Santander_DIO_BootCamp_bmg/assets/87772120/5e0d1150-d52c-4fb6-b979-152f7fa52e2b"
+  <img width="150" height="80" src="https://github.com/BrunoGeraldine/Santander_DIO_BootCamp_bmg/assets/87772120/5e0d1150-d52c-4fb6-b979-152f7fa52e2b"
        </p>
  <p align="Center">
 
